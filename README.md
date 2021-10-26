@@ -1,12 +1,16 @@
 <h1 align="center">
- Sistema para consulta de endereço 
+ Sistema de cadastro de tarifas de ônibus 
 </h1>
 
 <p align="center">
-Uma interface de consulta de endereço utilizando a API ViaCep | Node.js ; HTML ; Bootstrap ; Jquery ; JS
+Desafio 01 proposto pela empresa Audaz como parte do processo seletivo. 
+
+O desafio consiste em identificar e corrigir um Bug num código inacabado, além de inserir uma cláusula de validação utilizando das tarifas no intervalo de 6 meses. 
+ 
+Linguagem base proposta : C#/.NET
 </p>
 
-![image](https://github.com/tutrois/Consulta-Cep/blob/main/layout_ui-ux/Captura%20de%20tela%201.png?raw=true)
+![image](https://github.com/tutrois/Desafio01Audaz/blob/master/img01.png?raw=true)
 
 # 📌 Índice
 * 💡 [Funcionalidades](#features)

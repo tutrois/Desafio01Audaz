@@ -4,7 +4,7 @@
 
 Desafio 01 proposto pela empresa Audaz como parte do processo seletivo. 
 
-O desafio consiste em identificar e corrigir um Bug num código inacabado, além de inserir uma cláusula de validação utilizando das tarifas no intervalo de 6 meses. 
+O desafio consiste em identificar e corrigir um Bug num código inacabado, além de inserir uma cláusula de validação para cadastro das tarifas no intervalo de 6 meses. 
  
 Linguagem base proposta : C#/.NET
 

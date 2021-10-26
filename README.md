@@ -1,5 +1,5 @@
 <h1 align="center">
- Sistema de cadastro de tarifas de ônibus 
+ Sistema para cadastro de tarifas de ônibus 
 </h1>
 
 Desafio 01 proposto pela empresa Audaz como parte do processo seletivo. 

@@ -30,9 +30,7 @@ Será preciso fazer o download do [.NET](https://dotnet.microsoft.com/download) 
 
 Baixe o repositório do Git Hub do projeto e execute.  
 
-Ou faça o download do [git](https://git-scm.com) e execute os comandos a seguir. 
-
-Execute este comando para clonar o reprositório:
+Ou faça o download do [git](https://git-scm.com) e execute os comandos a seguir para clonar o reprositório: 
 
 ```git
 

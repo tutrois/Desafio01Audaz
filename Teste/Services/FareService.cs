@@ -35,8 +35,8 @@ namespace TestePleno.Services
         {
             return GetFares().Any(f =>
             {
-                var span = DateTimeOffset.UtcNow - f.DateStamp;
-                return f.OperatorId == operatorId && f.Status == 1 && Math.Floor(span.TotalDays / 30) <= 6;
+                var d = DateTimeOffset.UtcNow - f.DateStamp;
+                return f.OperatorId == operatorId && f.Status == 1 && Math.Floor(d.TotalDays / 30) <= 6;
             });
 
         }
